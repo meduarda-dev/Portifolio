@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://eduardarocha.vercel.app">
+  <a href="https://meduarda-dev.github.io/Portifolio/">
     <img src="https://img.shields.io/badge/🌐_Ver_ao_vivo-FF6B9D?style=for-the-badge" alt="Ver ao vivo " />
   </a>
   <a href="https://linkedin.com/in/eduardarocha22">
