@@ -37,7 +37,7 @@
 }
 
 .intro-cursor {
-  color: var(--green-bright);
+  color: var(--purple-bright);
   font-weight: 300;
   display: inline-block;
   animation: blink 1s step-end infinite;
@@ -51,7 +51,7 @@
 
 .intro-name {
   font-family: "NTR", sans-serif;
-  color: var(--green-bright);
+  color: var(--purple-bright);
   font-weight: bold;
   font-size: 80px;
 }
@@ -84,7 +84,7 @@
   font-family: "NTR", sans-serif;
   padding: 12px 32px;
   cursor: pointer;
-  border: 1px solid var(--green-bright);
+  border: 1px solid var(--purple-bright);
   border-radius: 4px;
   transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
 }

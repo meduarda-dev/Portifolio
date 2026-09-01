@@ -31,7 +31,7 @@
 
 .projects-card:hover {
   transform: translateY(-7px);
-  background-color: var(--lightest-navy);
+  background-color: var(--soft-purple);
 }
 
 .project-card-link {
@@ -67,7 +67,7 @@
   border-bottom: none !important;
 }
 .folder-icon {
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 .explore-link {
@@ -75,7 +75,7 @@
   margin-left: 20px;
   font-family: "NTR", sans-serif;
   font-size: 18px;
-  color: var(--green-bright);
+  color: var(--purple-bright);
   text-decoration: none;
   transition: all 0.25s ease;
   white-space: nowrap;
@@ -98,7 +98,7 @@
   margin-top: 6px;
 }
 .github-icon:hover {
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 .open-icon {
@@ -126,8 +126,8 @@
   gap: 6px;
   font-family: "NTR", sans-serif;
   font-size: 14px;
-  color: var(--green-bright);
-  border: 1px solid var(--green-bright);
+  color: var(--purple-bright);
+  border: 1px solid var(--purple-bright);
   border-radius: 4px;
   padding: 4px 10px;
   text-decoration: none;
@@ -201,11 +201,11 @@
   font-family: "NTR", sans-serif;
   font-size: 14px;
   font-weight: bold;
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 .carousel-indicators .active {
-  background-color: var(--green-bright);
+  background-color: var(--purple-bright);
 }
 
 @media only screen and (max-width: 600px) {

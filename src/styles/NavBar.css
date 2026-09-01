@@ -4,7 +4,7 @@
     font-family: 'NTR';
     font-weight: bold;
     backdrop-filter: blur(10px);
-    border-bottom: 1px solid var(--lightest-navy);
+    border-bottom: 1px solid var(--soft-purple);
   }
 
   .navbar-brand {
@@ -12,7 +12,7 @@
   }
 
   .navbar-brand:hover {
-    color: var(--green-bright) !important;
+    color: var(--purple-bright) !important;
   }
 
   .nav-link {
@@ -21,7 +21,7 @@
   }
 
   .nav-link:hover {
-    color: var(--green-bright) !important;
+    color: var(--purple-bright) !important;
   }
 
   @media only screen and (max-width: 800px) {
@@ -40,6 +40,6 @@
     }
 
     .nav-link:focus, .nav-link:active, .nav-link:hover {
-        color: var(--green-bright) !important;
+        color: var(--purple-bright) !important;
     }
   }

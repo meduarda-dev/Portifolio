@@ -26,7 +26,7 @@ const hardwareProjects = {
     link: "/hardware/gas-do-povo",
     image: "/assets/GDP/vale.png",
     // imageStyle: { objectFit: "contain", padding: "12px" },
-    badge: { text: "Teen Vogue feature", href: "https://www.teenvogue.com/story/diy-cyberdecks-newest-analog-trend-taking-social-media" }
+    badge: { text: "G1 feature", href: "https://g1.globo.com/especial-publicitario/sindigas/noticia/2026/05/25/gas-do-povo-amplia-acesso-ao-gas-de-cozinha-com-apoio-de-rede-presente-em-todo-o-brasil.ghtml" }
   }
 };
 
@@ -34,7 +34,7 @@ const HardwareProjects = () => {
   const navigate = useNavigate();
 
   return (
-    <div id="hardware-projects">
+    <div id="highlights">
       <div className="section-header">
         <span className="section-title">/ highlights</span>
       </div>

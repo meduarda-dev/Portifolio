@@ -186,12 +186,12 @@ const JobList = () => {
         sx={{
           borderRight: isMobile ? 0 : 1,
           borderBottom: isMobile ? 1 : 0,
-          borderColor: "var(--lightest-navy)",
+          borderColor: "var(--soft-purple)",
           "& .MuiTabs-indicator": {
-            backgroundColor: "var(--green-bright)"
+            backgroundColor: "var(--purple-bright)"
           },
           "& .MuiTabs-flexContainer": {
-            borderBottom: isMobile ? "1px solid var(--lightest-navy)" : "none"
+            borderBottom: isMobile ? "1px solid var(--soft-purple)" : "none"
           }
         }}
       >
@@ -211,10 +211,10 @@ const JobList = () => {
               minHeight: "48px",
               minWidth: isMobile ? "120px" : "auto",
               "&.Mui-selected": {
-                color: "var(--green-bright)"
+                color: "var(--purple-bright)"
               },
               "&:hover": {
-                color: "var(--green-bright)",
+                color: "var(--purple-bright)",
                 backgroundColor: "var(--green-tint)"
               }
             }}
@@ -236,7 +236,7 @@ const JobList = () => {
                     display: "flex",
                     gap: 8,
                     mb: 2,
-                    borderLeft: "2px solid var(--lightest-navy)",
+                    borderLeft: "2px solid var(--soft-purple)",
                     pl: 2,
                   }}
                 >
@@ -247,7 +247,7 @@ const JobList = () => {
                       sx={{
                         cursor: "pointer",
                         position: "relative",
-                        color: activeRole === roleIdx ? "var(--green-bright)" : "var(--slate)",
+                        color: activeRole === roleIdx ? "var(--purple-bright)" : "var(--slate)",
                         fontFamily: "NTR",
                         fontSize: "13px",
                         "&:before": {
@@ -259,7 +259,7 @@ const JobList = () => {
                           height: "10px",
                           borderRadius: "50%",
                           backgroundColor:
-                            activeRole === roleIdx ? "var(--green-bright)" : "var(--lightest-navy)",
+                            activeRole === roleIdx ? "var(--purple-bright)" : "var(--soft-purple)",
                         },
                       }}
                     >

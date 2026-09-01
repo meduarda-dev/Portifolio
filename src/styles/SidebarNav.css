@@ -26,7 +26,7 @@
 
 a {
   text-decoration: none;
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 a:hover {
@@ -34,11 +34,11 @@ a:hover {
 }
 
 .nav-slash {
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 a:hover .nav-slash {
-  color: var(--green-bright) !important;
+  color: var(--purple-bright) !important;
 }
 
 img {

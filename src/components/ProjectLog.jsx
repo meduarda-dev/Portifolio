@@ -144,11 +144,10 @@ const projectLogs = {
             title: "What I worked with:",
             items: [
               "TypeScript",
-              "Angular",
-              "Frontend development",
+              "React",
+              "React Native",
               "Figma",
-              "Accessibility",
-              "UX and usability",
+              "UX and Accessibility",
             ],
           },
         ],
@@ -224,10 +223,9 @@ const projectLogs = {
             title: "What I worked with:",
             items: [
               "TypeScript",
-              "Frontend development",
+              "React Native",
               "Maestro",
-              "Mobile testing",
-              "Functional testing",
+              "UX and Accessibility",
             ],
           },
            {

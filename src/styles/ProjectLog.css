@@ -22,7 +22,7 @@
 }
 
 .project-log-page .back-button {
-  color: var(--green-bright);
+  color: var(--purple-bright);
   margin-right: 20px;
 }
 
@@ -46,7 +46,7 @@
 .project-log-date {
   font-family: 'NTR', sans-serif;
   font-size: 18px;
-  color: var(--green-bright);
+  color: var(--purple-bright);
   margin-bottom: 40px;
   letter-spacing: 2px;
 }
@@ -94,7 +94,7 @@
 
 .article-header {
   margin-bottom: 20px;
-  border-bottom: 1px solid var(--lightest-navy);
+  border-bottom: 1px solid var(--soft-purple);
   padding-bottom: 10px;
 }
 
@@ -156,14 +156,14 @@
   content: "▹";
   position: absolute;
   left: 0;
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 .article-tip {
   font-family: 'Libre Baskerville', serif;
   background-color: var(--light-navy);
   padding: 20px;
-  border-left: 4px solid var(--green-bright);
+  border-left: 4px solid var(--purple-bright);
   margin: 30px 0;
   font-style: italic;
   font-size: 18px;
@@ -172,7 +172,7 @@
 .article-tip::before {
   content: "Tip: ";
   font-weight: bold;
-  color: var(--green-bright);
+  color: var(--purple-bright);
   font-style: normal;
 }
 
@@ -182,7 +182,7 @@
   border-radius: 12px;
   margin: 40px 0;
   overflow-x: auto;
-  border: 1px solid var(--lightest-navy);
+  border: 1px solid var(--soft-purple);
 }
 
 .article-code, .article-diagram {
@@ -195,7 +195,7 @@
 
 .article-diagram {
   white-space: pre;
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 .reels-container {
@@ -210,7 +210,7 @@
   gap: 15px;
   padding: 15px 30px;
   background-color: var(--light-navy);
-  border: 1px solid var(--lightest-navy);
+  border: 1px solid var(--soft-purple);
   border-radius: 8px;
   text-decoration: none;
   color: var(--lightest-slate);
@@ -221,10 +221,10 @@
 }
 
 .project-reels-link:hover {
-  border-color: var(--green-bright);
-  color: var(--green-bright);
+  border-color: var(--purple-bright);
+  color: var(--purple-bright);
   transform: translateY(-5px);
-  background-color: var(--lightest-navy);
+  background-color: var(--soft-purple);
 }
 
 .reels-icon {

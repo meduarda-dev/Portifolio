@@ -46,7 +46,7 @@
 
 a {
   text-decoration: none !important;
-  color: var(--green-bright);
+  color: var(--purple-bright);
 }
 
 a:hover {
@@ -62,7 +62,7 @@ a:hover {
 }
 
 ::selection {
-  background: var(--lightest-navy);
+  background: var(--soft-purple);
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -91,7 +91,7 @@ a:hover {
   margin-top: 39px;
   height: 1px;
   margin-left: 20px;
-  background-color: var(--lightest-navy);
+  background-color: var(--soft-purple);
 }
 
 .section-title {
