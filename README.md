@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
-</p>
-
-<h1 align="center">Duda's Portfolio</h1>
-
-<p align="center">
   My personal portfolio website, showcasing my projects, skills, experience, and journey as a Front-end Developer.
 </p>
 
