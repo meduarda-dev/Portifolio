@@ -26,8 +26,7 @@ const Intro = () => {
         </div>
         <FadeInSection>
           <div className="intro-desc">
-            Software developer and student in Brazil. I build accessible, responsive, and beautiful interfaces at
-            Dataprev by day and make strange little projects (that probably sounded better when we started) with friends by night.
+            Front end software developer and student in Brazil. I build accessible, responsive, and beautiful interfaces by day and make strange little projects (that probably sounded better when we started) with friends by night.
           </div>
           <a href="/assets/CVEduardaRocha.pdf" download className="intro-contact">
             {"Download Resume"}
